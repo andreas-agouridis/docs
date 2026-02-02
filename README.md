@@ -1,7 +1,27 @@
-# Spicetify Docs
+<img width="1000" height="400" alt="68747470733a2f2f692e696d6775722e636f6d2f6977634c4954512e706e67" src="https://github.com/user-attachments/assets/0b1165b9-a5ae-4403-b10e-c827c429300d" />
 
-This repository holds the documentation for Spicetify, which can be found [here](https://spicetify.app).
+# Spicetify Documentation
+
+This repository contains the official documentation for **Spicetify** — a powerful tool for customizing Spotify’s desktop client.
+The docs cover everything from getting started to advanced customization and development.
+
+<p align="center">
+  <a href="https://spicetify.app">
+    <img src="https://img.shields.io/badge/Website-spicetify.app-1DB954?style=for-the-badge" />
+  </a>
+  <a href="https://spicetify.app/docs/getting-started/">
+    <img src="https://img.shields.io/badge/Docs-Getting%20Started-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ## Contributing
 
-If you feel like you can contribute, please do so by opening an issue or pull request. We are always open to expand our documentation and add new features.
+Contributions are always welcome and greatly appreciated!
+Whether you’re fixing typos, improving clarity, or adding new sections, your help makes Spicetify better for everyone.
+
+To contribute, feel free to:
+
+* Open an issue for bugs, suggestions, or improvements
+* Submit a pull request with your changes
+
+
